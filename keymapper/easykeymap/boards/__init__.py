@@ -18,6 +18,7 @@ __all__ = [
 'atomic',
 'atreus',
 'atreus62',
+'clueboard',
 'epsilon',
 'filco',
 'filco87',
